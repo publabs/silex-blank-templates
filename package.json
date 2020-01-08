@@ -4,7 +4,7 @@
   "description": "Community templates for Silex website builder",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silexlabs/silex-blank-templates.git"
+    "url": "git+https://github.com/publabs/silex-blank-templates.git"
   },
   "author": "",
   "bugs": {
